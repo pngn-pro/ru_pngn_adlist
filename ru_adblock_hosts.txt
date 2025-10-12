@@ -1,5 +1,5 @@
 # RU AdBlock Hosts list
-# Updated: 2025-10-12 03:00:20
+# Updated: 2025-10-13 03:00:19
 # Total domains: 154691
 
 0-01.trafficjunky.com
