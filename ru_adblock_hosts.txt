@@ -1,5 +1,5 @@
 # RU AdBlock Hosts list
-# Updated: 2025-11-21 03:00:22
+# Updated: 2025-11-22 03:00:21
 # Total domains: 272760
 
 0--0--0-364f0c42.int.ad.smartnews.net
