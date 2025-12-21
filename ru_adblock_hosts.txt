@@ -1,5 +1,5 @@
 # RU AdBlock Hosts list
-# Updated: 2025-12-21 03:00:35
+# Updated: 2025-12-22 03:00:34
 # Total domains: 88442
 
 0-230-23.rest
