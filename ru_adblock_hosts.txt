@@ -1,6 +1,6 @@
 # RU AdBlock Hosts list
-# Updated: 2026-05-22 03:00:19
-# Total domains: 175179
+# Updated: 2026-05-23 03:00:34
+# Total domains: 175166
 
 0.0.0.0.creative.hpyrdr.com
 0.0.0.0.hpyrdr.com
@@ -24065,7 +24065,6 @@ api.eagllwin.com
 api.edgeoffer.microsoft.com
 api.ekacvda.com
 api.ematicsolutions.com
-api.engager.ecbsn.com
 api.ent.mobileanjian.com
 api.eqmob.com
 api.ero-advertising.com
@@ -24761,7 +24760,6 @@ apishowstats.babybus.com
 apistack.yourbow.com
 apistats.rg.ru
 apitm.toolmatrix.plus
-apituner.ecbsn.com
 apiv2.benefithub.com
 apiv2.moengage.com
 apiv2.tiin.vn
@@ -26419,7 +26417,6 @@ assets.dspunion.com
 assets.echobox.com
 assets.edgenet.com
 assets.efusercontent.com
-assets.emarsys.net
 assets.esm1.net
 assets.euw1.jivox.com
 assets.feedblitz.com
@@ -61497,7 +61494,6 @@ ffb146ee9cf5011ed06bedd6c83f69a2.safeframe.googlesyndication.com
 ffb9ca7033a3.cdn4.forter.com
 ffbde25763e74c7aadf004523b911e2b.js.ubembed.com
 ffcdn.streamrail.net
-ffconf.ecbsn.com
 ffctzd.cdn-settings.appsflyersdk.com
 ffde.nelreports.net
 ffesm.fr
@@ -84868,7 +84864,6 @@ mdwoakridge.112.2o7.net
 mdwsavannah.112.2o7.net
 mdwskirt.112.2o7.net
 me-cdn.effectivemeasure.net
-me-client.eservice.emarsys.net
 me-ssl.effectivemeasure.net
 me.5.p2l.info
 me.ads.justpremium.com
@@ -87225,7 +87220,6 @@ mobile-payu.com
 mobile-production.content-square.net
 mobile-protect-api.securetheorem.com
 mobile-remote-config.forter.com
-mobile-sdk-config.gservice.emarsys.net
 mobile-sdk-lib-ap-2.brilliantcollector.com
 mobile-sdk-lib-ca-1.brilliantcollector.com
 mobile-sdk-lib-eu-1.brilliantcollector.com
@@ -101051,7 +101045,6 @@ product.adtima.vn
 product.instiengage.com
 product.telemetry.adaptavist.com
 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
-production-cmp.isgprivacy.cbsi.com
 production-dual-proxy.reproio.com
 production-image-proxy.reproio.com
 production-rtb-tf.truex.com
@@ -103830,7 +103823,6 @@ r.marketing.dubaisothebys.com
 r.mateti.net
 r.monolexi.com
 r.moshimo.com
-r.mradx.net
 r.msn.com
 r.newsletter.directcontactexhibitions.com
 r.one-bid.com
@@ -107289,7 +107281,6 @@ ravelmorthi.pro
 raven.aprod.scopely.io
 ravensburger01.webtrekk.net
 raventrack.com
-ravm.tv
 ravopalonari.life
 raw-analytics.desh-api.com
 raw-reporting.nextmillmedia.com
@@ -113541,7 +113532,6 @@ sdk.push.mob.com
 sdk.pushdi.com
 sdk.pushmessage.samsung.com
 sdk.pushologies.com
-sdk.qikify.com
 sdk.resu.io
 sdk.rfunbox.com
 sdk.roojoom.com
@@ -113550,7 +113540,6 @@ sdk.sharethrough.com
 sdk.shopkick.com
 sdk.snapkit.com
 sdk.solitics.com
-sdk.split.io
 sdk.starbolt.io
 sdk.stat.foreign.nearme.com.cn
 sdk.streaming.adswizz.com
@@ -116679,7 +116668,6 @@ sitecdn.tvpage.com
 sitecheck.opera.com
 sitecloud.com
 sitedataprocessing.com
-sitegenesis.production.deckers.coremedia.cloud
 sitegiant.info
 sitehelp.cfd
 siteimprove.com
@@ -164965,7 +164953,6 @@ www.tapair.com
 www.tapeliody.autos
 www.tapfiliate.com
 www.tappffetsecondariness.guru
-www.tapresearch.com
 www.tapwind.truthnewswire.com
 www.taqcbx.com
 www.taqobey.pro
