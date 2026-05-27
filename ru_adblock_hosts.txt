@@ -1,5 +1,5 @@
 # RU AdBlock Hosts list
-# Updated: 2026-05-27 03:00:19
+# Updated: 2026-05-28 03:00:19
 # Total domains: 177243
 
 0.0.0.0.creative.hpyrdr.com
