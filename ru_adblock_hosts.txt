@@ -1,6 +1,6 @@
 # RU AdBlock Hosts list
-# Updated: 2026-09-18 03:04:49
-# Total domains: 161695
+# Updated: 2026-09-19 03:04:49
+# Total domains: 161633
 
 0-105.com
 0.0.0.0.creative.hpyrdr.com
@@ -1683,7 +1683,6 @@
 1girl1pitcher.org
 1grpon.cdn-settings.appsflyersdk.com
 1guy1cock.com
-1h.vuregyy1.ru
 1hg2y32.skin
 1hlahoc4rpc-sdk.rum.aliyuncs.com
 1hwy.com
@@ -17577,7 +17576,6 @@ airsexe.com
 airtel.d3.sc.omtrdc.net
 airtel.demdex.net
 airthrinav.store
-airtickts.com
 airwallex.stage.rokt.com
 airwheel.net
 ais-hub.com
@@ -20953,7 +20951,6 @@ anklets.shengen.ru
 ankushaedna.com
 anl.leadoo.com
 anm.112.2o7.net
-anmij.net
 anmilermaxs.com
 anmira.info
 anmol.solutions
@@ -23601,7 +23598,6 @@ archive.feedblitz.com
 archiveoutlet.shop
 archiver.rootsweb.com
 archivescane.com
-archivoscrosoft.com
 archoegres.store
 archsmarter.usesfathom.com
 archswimming.com
@@ -25044,7 +25040,6 @@ authorizedvault.com
 authorsradius.com
 authproxy.adjarabet.com
 authscotia-signinscotia.com
-authshipup.net
 authstep-booking001.com
 authstep-booking664.com
 auto-bannertausch.de
@@ -26289,7 +26284,6 @@ banex.bikers-engine.com
 banganet.com
 bangdrawing.com
 banghub.pl
-banghy.com
 bangkazza.com
 bangladesh-static.adfinix.com
 bangladesh.adfinix.com
@@ -27704,7 +27698,6 @@ bewailwheelsdisloyal.com
 bewaslac.com
 bewhidare.com
 bewilderedblade.com
-bewqa.com
 bewvmq.cdn-settings.appsflyersdk.com
 bewvmq.launches.appsflyersdk.com
 bexotrade.com
@@ -29061,7 +29054,6 @@ bjlsx.nativecos.com
 bjm7-dpvs.ksapisrv.com
 bjm7-incu.ksapisrv.com
 bjm7.ksapisrv.com
-bjntd.net
 bjorkavkastel.digital
 bjpg-incu.ksapisrv.com
 bjpg-log.ksapisrv.com
@@ -39843,7 +39835,6 @@ coyuchihome.mom
 coziesmaltman.com
 cozsh0rcvuugzzeyh8qiwpa06.d.jitsu.com
 cozydni.com
-cozygetly.com
 cozyhillside.com
 cozyhthome.shop
 cozyuspaces.shop
@@ -46233,7 +46224,6 @@ dowryhandgripballot.com
 doz.actie-op.com
 doz.fishing-xfish.shop
 doz.pl-ezebra.shop
-doz.pl-rabat.com
 doz.sell-pl.shop
 doz.standard.us-east-1.oortstorages.com
 dozone.sbs
@@ -53743,7 +53733,6 @@ fintexofficial.com
 fintmegacapital.net
 fintrexapex.org
 fintriion.com
-fintrixgpt.com
 finveraplatform.com
 finvermoai.com
 finviatrade.de
@@ -59829,7 +59818,6 @@ granlite.com
 grannyporn-sex.com
 grannyreproof.com
 grant.rewards.brave.com
-grantexx.com
 granular-reflection.com
 granularwedding.com
 grapblock.sbs
@@ -61656,7 +61644,6 @@ hellyhansencanada.com
 hellyhansennederland.com
 helmetoline.shop
 helmmarginvale-pro.pages.dev
-helmorixytrade.net
 helmsuction.com
 helouniessa.net
 help.ads.microsoft.com
@@ -65072,7 +65059,6 @@ immediatelydoghead.com
 immediatemaximumapp.com
 immediatemedia.amp.permutive.com
 immediatenurvault.net
-immediateprodexairsoft.com
 immediatequantarotrade.com
 immediatesystem-com.pages.dev
 immediatethorenext.org
@@ -66731,7 +66717,6 @@ ipinfodb.com
 ipinyou.com
 ipjackets.com
 ipkategoria72343432.sbs
-ipko-bank-pl.us.stackstaging.com
 ipla.hit.stat24.com
 iplis.ru
 iplogger.com
@@ -68372,7 +68357,6 @@ jpdkyc.pia.appsflyersdk.com
 jpfw.adsafeprotected.com
 jpfwlb.adsafeprotected.com
 jpgtrk.imghst-de.com
-jphlz.net
 jpirate.cjt1.net
 jpk8slb.adsafeprotected.com
 jpmcibmarketsprod.112.2o7.net
@@ -69478,7 +69462,6 @@ kbg0wf.cdn-settings.appsflyersdk.com
 kbg0wf.conversions.appsflyersdk.com
 kbg0wf.inapps.appsflyersdk.com
 kbg0wf.launches.appsflyersdk.com
-kbinx.net
 kbnmnl.com
 kbos.net
 kbox-analytics-backup.s3-accelerate.amazonaws.com
@@ -70052,7 +70035,6 @@ kliks.affiliate4you.nl
 kliks.nl
 kliksaya.com
 kliktrek.com
-klimi.donbrownministries.com
 kliniksam.com
 klink-tracking.volceapplog.com
 klink.volceapplog.com
@@ -72581,7 +72563,6 @@ liraxia.com
 liraxplatform.com
 lirotroodles.com
 lirymant.com
-liryszen.com
 lisaa.fr
 lisads.d2c.ne.jp
 lisamccamey.com
@@ -72635,7 +72616,6 @@ littleduck.fr
 littlefolk.org
 littlejungle.pl
 lituiop.com
-lituqoo.com
 litx5b-cdn-settings.appsflyersdk.com
 litx5b-launches.appsflyersdk.com
 litx5b.cdn-settings.appsflyersdk.com
@@ -77970,7 +77950,6 @@ meundies.7eer.net
 meuolliebr.api.useinsider.com
 meusemarchitage.net
 meutudo.api.useinsider.com
-mevrixor.com
 mewgzllnsp.com
 mewigurom.com
 mexicanartsimport.com
@@ -85592,7 +85571,6 @@ oogneenu.net
 ooikxmsg-xoya3.rp5jpg.cfd
 ooixpo34-up.sc9oci.top
 ooixpre-jp2ab.a8rona.sbs
-oojhh.net
 oolif0.cdn-settings.appsflyersdk.com
 oolif0.conversions.appsflyersdk.com
 oolif0.dlsdk.appsflyersdk.com
@@ -86641,7 +86619,6 @@ ovprzh-inapps.appsflyersdk.com
 ovprzh-launches.appsflyersdk.com
 ovret.com
 ovruxtalitrade.com
-ovtcf.net
 ovxrqw.cdn-settings.appsflyersdk.com
 ovxrqw.conversions.appsflyersdk.com
 ovxrqw.dlsdk.appsflyersdk.com
@@ -88265,7 +88242,6 @@ pdsnt9-cdn-settings.appsflyersdk.com
 pdsnt9-conversions.appsflyersdk.com
 pdsnt9-gcdsdk.appsflyersdk.com
 pdsnt9-launches.appsflyersdk.com
-pdtks.com
 pdtsu.com
 pdupdate.organiccrap.com
 pdvacde.com
@@ -90974,13 +90950,11 @@ podatki-mp.r-pdtk.com
 podatki-oq.r-pdtk.com
 podatki-oy.u-pdtk.com
 podatki-pu.r-pdtk.com
-podatki-py.pdtks.com
 podatki-qj.epdtk.com
 podatki-rk.podatescom.com
 podatki-rz.r-pdtk.com
 podatki-uh.r-pdtk.com
 podatki-uq.r-pdtk.com
-podatki-vm.pdtks.com
 podatki-vmr.poldsr.com
 podatki-wn.i-pdtk.com
 podatki-yd.r-pdtk.com
@@ -91205,7 +91179,6 @@ polskiekobietki.pl
 polskiemeble.mom
 polskiemodelki.pl
 polskiepanienki.pl
-polskiepelety.com
 polskiepremium.pl
 polskierabaty.shop
 polskifilm.com.pl
@@ -92705,7 +92678,6 @@ projectagoralibs.com
 projectagoratech.com
 projectgoals.net
 projectmanagementinstituteproductionlqzthlnw.analytics.org.coveo.com
-projectmonta.com
 projectnest-27.pages.dev
 projectorpeople.112.2o7.net
 projectorreviews.advertserve.com
@@ -97516,7 +97488,6 @@ reloading-page1.com
 reloadingdepotusa.com
 reloadinput.com
 reloadpage.net
-reltravo.com
 reluctantlyaluminiumput.com
 rem.rezonmedia.eu
 remain.chartboosts.com
@@ -97622,7 +97593,6 @@ rentinfrared.com
 rentito.pl
 rentixaitrade.com
 renvakstmark.com
-renvaria.com
 renvorentaai.net
 renzunoapex.com
 rep.exblog.jp
@@ -102195,7 +102165,6 @@ schumacher.adtech.us
 schwab.api.wsod.com
 schwab.demdex.net
 schwab.tt.omtrdc.net
-schwarz-apex.com
 schwarz-apex.de
 schwarz-apex.net
 schwarzapex.de
@@ -102810,7 +102779,6 @@ sdkvideo.s3.amazonaws.com
 sdlyit.net
 sdm.prosystemfx.com
 sdmat.avoltd.com
-sdmsapp.com
 sdmunicipio.com
 sdmymr.com
 sdn.kugou.com
@@ -103992,7 +103960,6 @@ seorauvebedan.info
 seosoftware.onlinedownloads.org
 seosprint.net
 sepagu-gezayu.info
-separadordecc.com
 separationsufferinguptown.com
 separcarot.rest
 sephor.fr
@@ -104001,7 +103968,6 @@ sephora-skincare.shop
 sephora.commander1.com
 sephora.demdex.net
 sephorabrasil.api.useinsider.com
-sephoracalendar.hiringmeeting.com
 sepiarypooris.com
 sepkicks.com
 sepold.eu.cc
@@ -107620,7 +107586,6 @@ solana-rpc.publicnode.com
 solanainvestmentmanagementltd.com
 solanobursencia.net
 solar-sale.shop
-solar-sanat.net
 solarfacic.store
 solarixradiante.net
 solarrecharge.net
@@ -110545,7 +110510,6 @@ startup.mobile.webvisor.com
 startup.mobile.yandex.net
 startup.oupeng.com
 startupsservices.net
-startvsgame.com
 starvationcalibergrid.com
 starvedesolatesaturday.com
 starz.122.2o7.net
@@ -116289,7 +116253,6 @@ thertastore.evergage.com
 thesafersearch.com
 thesalvationarmy.tt.omtrdc.net
 theschwarzapex.com
-theschwarzapex.net
 theschwarzapex.org
 thesciencequest.info
 thesearchagency.net
@@ -121643,7 +121606,6 @@ update-information.zzux.com
 update-java.kit.net
 update-motion-gallery.click
 update-netflix.com
-update-notif.com
 update-security.ddns.info
 update-security.qhigh.com
 update-skype.freehostia.com
@@ -123337,7 +123299,6 @@ v7nond-inapps.appsflyersdk.com
 v7nond-launches.appsflyersdk.com
 v7nond-skadsdkless.appsflyersdk.com
 v7o0bd.adrevenue.appsflyersdk.com
-v7yp4wts.fourstarcampground.com
 v7zg7e-launches.appsflyersdk.com
 v8.analytics.pinsightmedia.com
 v8.img.360kuai.com
@@ -130069,7 +130030,6 @@ www.058127.click
 www.07634.com
 www.0900-telefonerotik.de
 www.09zyy.com
-www.0akw8w.com
 www.0azx1.com
 www.0b8918640c.nxcli.io
 www.0c02y9v.pics
@@ -133435,7 +133395,6 @@ www.bandexperts.com
 www.bangbuddy.com
 www.banghra.com
 www.banghub.pl
-www.banghy.com
 www.bango.com
 www.banjers.ero-advertising.com
 www.bankino.net
@@ -135675,7 +135634,6 @@ www.coxmavefzvnqwl.com
 www.coyondvia.site
 www.coyuchihome.mom
 www.cozydni.com
-www.cozygetly.com
 www.cozyhthome.shop
 www.cozyuspaces.shop
 www.cpabank.com
@@ -135705,7 +135663,6 @@ www.crafathaven.shop
 www.craftdcecor.shop
 www.craftoutlet.mom
 www.craftsmanshipmuseum.mom
-www.craftsparkdimensions.com
 www.craftsportswearpolska.pl
 www.cragwealthaven-digital.pages.dev
 www.crakmedia.com
@@ -137178,7 +137135,6 @@ www.elwyndatamere.online
 www.elyaevents.com
 www.elyorplatform-ai.com
 www.elyqavellephronatistrade.com
-www.elyragame.com
 www.em6gto.top
 www.emadesign.net
 www.emailspend.com
@@ -138128,7 +138084,6 @@ www.fintexofficial.com
 www.fintmegacapital.net
 www.fintrexapex.org
 www.fintriion.com
-www.fintrixgpt.com
 www.finveraplatform.com
 www.finvermoai.com
 www.finviatrade.de
@@ -140862,7 +140817,6 @@ www.hellyhansencanada.com
 www.hellyhansennederland.com
 www.helmetoline.shop
 www.helmmarginvale-pro.pages.dev
-www.helmorixytrade.net
 www.helouniessa.net
 www.helpdesk.deviantart.info
 www.helper-metechatsmes-2026.store
@@ -143396,7 +143350,6 @@ www.lirax.digital
 www.liraxia.com
 www.liraxplatform.com
 www.lirymant.com
-www.liryszen.com
 www.lisamccamey.com
 www.lisan.uk
 www.lisaverdancia.com
@@ -143416,7 +143369,6 @@ www.littlebarnapothecary.mom
 www.littledevildoubt.com
 www.littlefolk.org
 www.littlejungle.pl
-www.lituqoo.com
 www.liucuaiv.tigarshark.com
 www.liujopolska.com
 www.liukeer.weebly.com
@@ -146932,7 +146884,6 @@ www.pdf2docs.com
 www.pdnpr.j6iwuq.sbs
 www.pdpadserver.net
 www.pdrill.com
-www.pdtks.com
 www.pdtsu.com
 www.pdxsenior.com
 www.peacesell.com
@@ -147907,7 +147858,6 @@ www.polskiekobietki.pl
 www.polskiemeble.mom
 www.polskiemodelki.pl
 www.polskiepanienki.pl
-www.polskiepelety.com
 www.polskiepremium.pl
 www.polskierabaty.shop
 www.polskifilm.com.pl
@@ -148302,7 +148252,6 @@ www.progressofinixa.org
 www.prohustlr.co.uk
 www.proinvestpolska.com
 www.proinvesttrade.com
-www.projectmonta.com
 www.projectnest-27.pages.dev
 www.projectwonderful.com
 www.prolapseman.com
@@ -149209,7 +149158,6 @@ www.rentito.pl
 www.rentixaitrade.com
 www.rentracks.jp
 www.renvakstmark.com
-www.renvaria.com
 www.renvorentaai.net
 www.renzunoapex.com
 www.rep.privatesearch.club
@@ -149987,7 +149935,6 @@ www.schillbergoverkamp.mom
 www.scholarlyair.com
 www.schoolhouse.live
 www.schtserv.com
-www.schwarz-apex.com
 www.schwarz-apex.de
 www.schwarz-apex.net
 www.schwarzapex.de
@@ -150046,7 +149993,6 @@ www.sdexthover.site
 www.sdfiovcds.my.id
 www.sdk.foursquare.com
 www.sdlyit.net
-www.sdmsapp.com
 www.sdmunicipio.com
 www.sdmymr.com
 www.sdoglgarba.store
@@ -152691,7 +152637,6 @@ www.thermwood.com
 www.theroamingjew.com
 www.theroasterie.mom
 www.theschwarzapex.com
-www.theschwarzapex.net
 www.theschwarzapex.org
 www.thesearchagency.net
 www.thesecuredtrader.com
@@ -155487,7 +155432,6 @@ www.wybielaniezebow.c.pl
 www.wybierzgdansk.pl
 www.wybor.shop
 www.wydarzenia-24.x9.eu
-www.wydarzenia-ai.com
 www.wydarzenia-naszemiasto-24.x9.eu
 www.wydarzenia-naszemiasto.x9.eu
 www.wydarzenia-naszemiasto24.x9.eu
@@ -155978,7 +155922,6 @@ www.zakupy-biedronsale.shop
 www.zaladanoutlets.com
 www.zalando-eu-shop.com
 www.zalando-eu.buy-vera.com
-www.zalandofree.com
 www.zalbani.is-best.net
 www.zalmivodorevax.com
 www.zaloguj-481920.eu.cc
@@ -156116,7 +156059,6 @@ www.zelvarionqorthalextrade.com
 www.zelvatrixnorqentrade.com
 www.zelvioncarthis.com
 www.zelvistium.pro
-www.zelvutarapex.com
 www.zemgo.com
 www.zemquni-kxt-felrani-c8x1hq95.pages.dev
 www.zenalovexar.com
@@ -156734,7 +156676,6 @@ wybielaniezebow.c.pl
 wybierzgdansk.pl
 wybor.shop
 wydarzenia-24.x9.eu
-wydarzenia-ai.com
 wydarzenia-naszemiasto-24.x9.eu
 wydarzenia-naszemiasto.x9.eu
 wydarzenia-naszemiasto24.x9.eu
@@ -159176,7 +159117,6 @@ zaladanoutlets.com
 zalanado.fr
 zalando-eu-shop.com
 zalando-eu.buy-vera.com
-zalandofree.com
 zalandon.fr
 zalbani.is-best.net
 zales10652z.btttag.com
@@ -159355,7 +159295,6 @@ zc9wrj.launches.appsflyersdk.com
 zcast-api.salemwebnetwork.com
 zcdmww.cdn-settings.appsflyersdk.com
 zcdmww.inapps.appsflyersdk.com
-zckcp.net
 zcmi5v-launches.appsflyersdk.com
 zcname.zotlo.com
 zcoptry.com
@@ -159480,7 +159419,6 @@ zelvarionqorthalextrade.com
 zelvatrixnorqentrade.com
 zelvioncarthis.com
 zelvistium.pro
-zelvutarapex.com
 zem.outbrainimg.com
 zemanta.com
 zemanta.imgix.net
